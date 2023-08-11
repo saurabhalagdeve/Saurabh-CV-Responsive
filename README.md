@@ -11,7 +11,7 @@ Copy code
 
 Welcome to the repository for Saurabh Alagdeve's CV website. This repository contains the HTML, CSS, and assets used to build and style the website.
 
-![Website Preview](screenshot.png) <!-- Replace with an actual screenshot of your website -->
+[click here](https://saurabhalagdeve.github.io/Saurabh-CV-Responsive/)
 
 ## Table of Contents
 
